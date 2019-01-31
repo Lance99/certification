@@ -1,4 +1,4 @@
 # Summary
 
-* [Introduction](README.md)
+* [Lance資訊天地](README.md)
 
